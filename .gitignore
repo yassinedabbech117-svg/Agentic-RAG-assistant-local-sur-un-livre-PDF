@@ -1,0 +1,20 @@
+# Python environments and caches
+.venv/
+.venv_old/
+__pycache__/
+*.py[cod]
+
+# Local logs and editor state
+*.log
+.vscode/
+
+# Generated RAG indexes (recreated from the PDF)
+rag_data/faiss.index
+rag_data/tfidf-vectorizer.joblib
+rag_data/*.faiss
+rag_data/metadata.json
+rag_data/qwen_tokenizer/
+rag_data/*.json
+
+# The source book is user-provided and is not distributed with the code.
+The Hitchhiker’s Guide to Agentic AI.pdf

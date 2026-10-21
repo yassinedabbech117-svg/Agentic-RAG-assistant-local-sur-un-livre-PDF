@@ -1,0 +1,9 @@
+
+pymupdf<2
+faiss-cpu
+rank-bm25
+numpy
+requests
+tqdm
+streamlit
+tokenizers

@@ -1,0 +1,4 @@
+
+PS C:\Users\user> cd C:\Users\user\Desktop\chatbot
+PS C:\Users\user\Desktop\chatbot> .\.venv\Scripts\Activate.ps1
+(.venv) PS C:\Users\user\Desktop\chatbot> python main.py
