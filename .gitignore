@@ -15,6 +15,3 @@ rag_data/*.faiss
 rag_data/metadata.json
 rag_data/qwen_tokenizer/
 rag_data/*.json
-
-# The source book is user-provided and is not distributed with the code.
-The Hitchhiker’s Guide to Agentic AI.pdf

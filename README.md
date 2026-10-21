@@ -2,7 +2,7 @@
 
 Application de questions-réponses fondée sur le livre **The Hitchhiker’s Guide to Agentic AI**. Elle extrait le texte du PDF, retrouve les passages utiles avec une recherche hybride, puis demande à un modèle Ollama local de rédiger une réponse courte avec des références vérifiées aux pages récupérées.
 
-Le PDF du livre n’est pas distribué dans ce dépôt. Pour utiliser l’application, placez votre copie du PDF à la racine du projet sous le nom `The Hitchhiker’s Guide to Agentic AI.pdf`.
+Le PDF du livre, fourni sous licence de redistribution, est inclus à la racine du dépôt sous le nom `The Hitchhiker’s Guide to Agentic AI.pdf`.
 
 ## Sommaire
 
